@@ -1,0 +1,5 @@
+config SHIELD_NEXUS_LEFT
+    def_bool $(shields_list_contains,nexus_left)
+
+config SHIELD_NEXUS_RIGHT
+    def_bool $(shields_list_contains,nexus_right)

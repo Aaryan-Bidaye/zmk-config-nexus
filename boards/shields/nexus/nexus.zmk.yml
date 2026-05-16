@@ -1,0 +1,10 @@
+file_format: "1"
+id: nexus
+name: Nexus
+type: shield
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - nexus_left
+  - nexus_right
